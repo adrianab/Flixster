@@ -27,8 +27,8 @@ Flixster is an app that allows users to browse movies from the [The Movie Databa
 Here's a walkthrough of the updated implemented user stories:
 
 <img src='flixsterPortrait2.gif' title='Flixster Updated Portrait Walkthrough' width='250' alt='Flixster Updated Portrait Walkthrough'><br>
-<img src='flixsterLandscape2.gif' title='Flixster Landscape Walkthrough' width='400' alt='Flixster Landscape Walkthrough'><br>
-<img src='flixsterPortrait3.gif' title='Flixster Portrait & Landscape Walkthrough' width='250' alt='Flixster Portrait & Landscape Walkthrough'><br>
+<img src='flixsterLandscape2.gif' title='Flixster Landscape Walkthrough' width='500' alt='Flixster Landscape Walkthrough'><br>
+<img src='flixsterPortrait3.gif' title='Flixster Portrait & Landscape Walkthrough' width='500' alt='Flixster Portrait & Landscape Walkthrough'><br>
 
 GIF created with [Kap](https://getkap.co).
 
